@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a9d4a87d.chunk.css",
+    "main.js": "/static/js/main.f45ccab5.chunk.js",
+    "main.js.map": "/static/js/main.f45ccab5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ff24fd07.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ff24fd07.js.map",
+    "static/js/2.176df108.chunk.js": "/static/js/2.176df108.chunk.js",
+    "static/js/2.176df108.chunk.js.map": "/static/js/2.176df108.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.a9d4a87d.chunk.css.map": "/static/css/main.a9d4a87d.chunk.css.map",
+    "static/js/2.176df108.chunk.js.LICENSE.txt": "/static/js/2.176df108.chunk.js.LICENSE.txt",
+    "static/media/futbol.7ce55f0b.png": "/static/media/futbol.7ce55f0b.png",
+    "static/media/hungry_monster.0968900c.png": "/static/media/hungry_monster.0968900c.png",
+    "static/media/kontest.d567fa84.png": "/static/media/kontest.d567fa84.png",
+    "static/media/outdoors.f1621901.png": "/static/media/outdoors.f1621901.png",
+    "static/media/profile bg final 2.e4674020.svg": "/static/media/profile bg final 2.e4674020.svg",
+    "static/media/trvl.1edf9b75.png": "/static/media/trvl.1edf9b75.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff24fd07.js",
+    "static/js/2.176df108.chunk.js",
+    "static/css/main.a9d4a87d.chunk.css",
+    "static/js/main.f45ccab5.chunk.js"
+  ]
+}
