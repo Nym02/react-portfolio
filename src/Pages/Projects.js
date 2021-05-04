@@ -1,4 +1,4 @@
-import ProjectComponents from "../components/Projects/ProjectComponents/ProjectComponents";
+// import ProjectComponents from "../components/Projects/ProjectComponents/ProjectComponents";
 
 const Projects = () => {
   return (
