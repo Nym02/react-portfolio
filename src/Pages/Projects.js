@@ -1,9 +1,9 @@
+import advocate from '../assets/advocate.png';
 import futbol from "../assets/futbol.png";
 import hungry from "../assets/hungry_monster.png";
 import kontest from "../assets/kontest.png";
 import outdoors from "../assets/outdoors.png";
 import trvl from "../assets/trvl.png";
-import ButtonBlue from "../components/Button/ButtonBlue";
 import ProjectComponents from "../components/Projects/ProjectComponents/ProjectComponents";
 
 const Projects = () => {
@@ -14,6 +14,13 @@ const Projects = () => {
       </div>
       <div className="flex flex-col justify-center items-center w-full lg:mt-24 mt-12">
         <div className="flex flex-col xxl:w-5/6 w-full justify-center items-center lg:px-0 px-2 space-y-9">
+        <ProjectComponents
+            src={advocate}
+            title="advocate managements system"
+            live="https://xattorney.app/"
+            git="https://github.com/Nym02/xAttorney"
+            details="Advocate Management System. This will help advocate to manage their cases. Advocates will also be able to manage their different clients with financial matters."
+          />
           <ProjectComponents
             src={futbol}
             title="futbol"
@@ -50,10 +57,8 @@ const Projects = () => {
             details="Travel Agency landing page using HTML5, CSS3 and SASS."
           />
         </div>
-        <hr />
-        <div className="mt-12">
-          <ButtonBlue to="/projects" text="View more" />
-        </div>
+        {/* <hr /> */}
+       
       </div>
       {/* <h1>Coming Soon..</h1> */}
     </>

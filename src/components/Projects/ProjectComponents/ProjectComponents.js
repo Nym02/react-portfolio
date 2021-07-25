@@ -26,6 +26,7 @@ const ProjectComponents = ({ src, title, details, live, git }) => {
             <div className="font-open text-lg font-semibold">
               <a
                 href={live}
+                target="_blank"
                 className="px-1 py-1 bg-blue-400 text-white hover:text-blue-400 hover:bg-white rounded"
               >
                 Live demo
